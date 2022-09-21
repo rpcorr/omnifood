@@ -608,3 +608,10 @@
     background-size: cover;
     background-position: center;
 }
+
+/************************/
+/* FOOTER */
+/************************/
+.footer {
+  padding: 9.6rem 0;
+}
