@@ -89,14 +89,14 @@
 }
 
 .hero-image {
-  width: 95%;
+  width: 100%;
 }
 
 .delivered-meals {
   display: flex;
   align-items: center;
   gap: 1.6rem;
-  margin-top: 6.8rem;
+  margin-top: 8rem;
 }
 
 .delivered-imgs {
