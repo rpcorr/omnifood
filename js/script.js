@@ -1,7 +1,19 @@
-// include current year in footer
+// Set current year in footer
 const yearEL = document.querySelector('.year');
 const currentYear = new Date().getFullYear();
 yearEL.textContent = currentYear;
+
+////////////////////////////////////////////////
+// Make mobile navigation work
+
+const btnNavEl = document.querySelector('.btn-mobile-nav');
+const headerEl = document.querySelector('.header');
+
+btnNavEl.addEventListener('click', function() {
+  headerEl.classList.toggle('nav-open');
+});
+
+////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
