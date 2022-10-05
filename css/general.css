@@ -279,6 +279,9 @@ body {
     box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
 }
 
+/* ACCESSIBILITY CLASSES */
+.sr-only{ text-indent: -10000px;}
+
 /* HELPER/SETTINGS CLASSES */
 .margin-right-sm {
   margin-right: 1.6rem !important;
