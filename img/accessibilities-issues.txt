@@ -4,8 +4,8 @@ Omnifood Accessibility issues
 2.  SRs not neccessarily to read customer photos -addressed
 3.  Add "Step" to SRs only to read - addressed
 4.  Add "category" in SRs when reading the tags - addressed
-5.  Hide flame, resturant, and star from SRs
-6.  Add "entries" in SRs after number of votes
+5.  Hide flame, resturant, and star from SRs -addressed
+6.  Add "reviews" in SRs after number of votes - addressed
 7.  Hide check marks from SRs in "Works with any diet" list
 8.  Add "Plan" in SRs when readinng "Starter"/ "Complete"
 9.  For SRs convert check marks to "include" / x to "does not include" in "Plans" blocks
