@@ -3,7 +3,7 @@ Omnifood Accessibility issues
 1.  Screen reader reads "Start eating well" and "Learn more" buttons together - addressed
 2.  SRs not neccessarily to read customer photos -addressed
 3.  Add "Step" to SRs only to read - addressed
-4.  Add "category" in SRs when reading the tags
+4.  Add "category" in SRs when reading the tags - addressed
 5.  Hide flame, resturant, and star from SRs
 6.  Add "entries" in SRs after number of votes
 7.  Hide check marks from SRs in "Works with any diet" list
