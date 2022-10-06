@@ -9,7 +9,7 @@ Omnifood Accessibility issues
 7.  Hide check marks from SRs in "Works with any diet" list - addressed
 8.  Add "Plan" in SRs when readinng "Starter"/ "Complete" - addressed
 9.  For SRs convert check marks to "include" / x to "does not include" in "Plans" blocks addressed
-10. Start eating well links add role="button"
+10. Start eating well links add role="button" addressed
 11. Distinct "Start eating well links (relate to plans)
 12. Have SRs reads "Best value" after price
 13. Hide inifinite/ apple / leaf / pause icons from SRs
