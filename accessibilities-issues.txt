@@ -15,4 +15,4 @@ Omnifood Accessibility issues
 13. Hide inifinite/ apple / leaf / pause icons from SRs - addressed
 14. Copyright is read twice in SRs - hide one from SRs - addressed
 15. GRAMMAR ERROR: Omifood should be Omnifood in copyright section - addressed
-16. SR reads "." dot after St. in Harrison St - no need to have SR saying "dot" 
+16. SR reads "." dot after St. in Harrison St - no need to have SR saying "dot" - addressed
