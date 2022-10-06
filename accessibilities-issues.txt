@@ -13,6 +13,6 @@ Omnifood Accessibility issues
 11. Distinct "Start eating well links (relate to plans) - addressed
 12. Have SRs reads "Best value" after price
 13. Hide inifinite/ apple / leaf / pause icons from SRs - addressed
-14. Copyright is read twice in SRs - hide one from SRs
-15. GRAMMAR ERROR: Omifood should be Omnifood in copyright section
+14. Copyright is read twice in SRs - hide one from SRs - addressed
+15. GRAMMAR ERROR: Omifood should be Omnifood in copyright section - addressed
 16. SR reads "." dot after St. in Harrison St - no need to have SR saying "dot" 
