@@ -131,6 +131,10 @@
   width: 100%;
 }
 
+.group-btns {
+  display:flex;
+}
+
 .delivered-meals {
   display: flex;
   align-items: center;

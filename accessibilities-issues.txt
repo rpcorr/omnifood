@@ -1,0 +1,18 @@
+Omnifood Accessibility issues
+
+1.  Screen reader reads "Start eating well" and "Learn more" buttons together - addressed
+2.  SRs not neccessarily to read customer photos - addressed
+3.  Add "Step" to SRs only to read - addressed
+4.  Add "category" in SRs when reading the tags - addressed
+5.  Hide flame, resturant, and star from SRs - addressed
+6.  Add "reviews" in SRs after number of votes - addressed
+7.  Hide check marks from SRs in "Works with any diet" list - addressed
+8.  Add "Plan" in SRs when readinng "Starter"/ "Complete" - addressed
+9.  For SRs convert check marks to "include" / x to "does not include" in "Plans" blocks - addressed
+10. Start eating well links add role="button" - addressed
+11. Distinct "Start eating well links (relate to plans) - addressed
+12. Have SRs reads "Best value" after price
+13. Hide inifinite/ apple / leaf / pause icons from SRs - addressed
+14. Copyright is read twice in SRs - hide one from SRs - addressed
+15. GRAMMAR ERROR: Omifood should be Omnifood in copyright section - addressed
+16. SR reads "." dot after St. in Harrison St - no need to have SR saying "dot" - addressed
