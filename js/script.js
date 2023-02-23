@@ -3,6 +3,15 @@ const yearEL = document.querySelector('.year');
 const currentYear = new Date().getFullYear();
 yearEL.textContent = currentYear;
 
+/////////////////////////////////////////////////
+// Accessibility: Give focus to main content
+
+const skipToMainContent = document.getElementById('skip-top-nav-link');
+
+skipToMainContent.addEventListener('click', function () {
+  document.getElementById('main-content').focus();
+});
+
 ////////////////////////////////////////////////
 // Make mobile navigation work
 
