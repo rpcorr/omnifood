@@ -298,6 +298,7 @@ body {
 .skip-nav-link-container {
   display: flex;
   justify-content: center;
+  background-color: #fdf2e9;
 }
 
 .skip-nav-link {
